@@ -12,4 +12,4 @@ var data=mock.mock({
     ]
 })
 
-console.log(JSON.stringify(data,null,2))
+console.log(JSON.stringify(data,null,2))   //第一个为参数，第二个为占位符，第三个为换行空几格；
